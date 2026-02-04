@@ -63,13 +63,6 @@ Base server: `http://localhost:5000`
 
 ---
 
-## ℹ️ Notes & tips
-
-- Server defaults to port `5000` (see `backend/server.js`).
-- If you want to run frontend + backend concurrently, run the two start commands in separate terminals.
-
----
-
 ## 🧾 License
 
 MIT (add license file if desired)
